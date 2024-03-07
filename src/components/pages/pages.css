@@ -1,0 +1,164 @@
+.home{
+    background-color:#7d6e83;
+    margin: 0;
+    padding: 0;
+
+  }
+
+  .about_home, .guarantees, .guarant_table, .prices, .accessories1, .remont_comp, .remont_HouseholdAppliances, .container_contacts{
+    display: flex;
+  }
+  
+  .about_home, .guarantees, .guarant_table, .reviews, .prices, .accessories, .container_contacts{
+    border-radius: 20px;
+    margin:15px;
+    background: #7d6e83;
+  }
+
+  .about_home, .guarantees{
+    height: 255px;
+  }
+
+  .about, .guarant{
+    width: 720px;
+    text-align: left;
+  }
+  
+  .about, img, .guarant, .prices_home1, .prices_home2, .accessories1, .accessories2, .accessoriesh2, .contactsh2, .accessories3, .contacts{
+    border-radius: 20px;
+    margin: 15px;
+  }
+
+  .prices_home1, .prices_home2, .about, .guarant, .accessories2{
+    border: 1px solid #d0b8a8; 
+  }
+
+
+.about, .contactsh2{
+  text-align: left;
+  padding: 15px;
+}
+
+ .image_about{
+    width: 290px;
+    height: 225px;
+}
+
+.image_about, .guarant_image, .guarant, .guarant_table1,.guarant_table2, h1, .accessories2, .accessoriesh2, .accessories3{
+  text-align: center;
+}
+
+.productbrend{
+  text-decoration: none;
+  font-weight: bold;
+}
+.productbrend, .guarantees, .about, .accessoriesh2,  .remont_HouseholdAppliances{
+  color: #dfd3c3;
+}
+
+.guarant_image{
+  width: 300px;
+  height: 195px;
+}
+
+.guarant_table1,.guarant_table2{
+  height: 500px;
+}
+
+.guarant_table1{
+  width: 900px;
+}
+
+.guarant_table2{
+  width: 350px;
+}
+
+.reviews{
+  height: 580px;
+}
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid #7d6e83; 
+  text-align: left;
+  padding: 8px;
+  background-color: #dfd3c3;
+}
+
+th {
+  background-color: #d0b8a8;
+}
+
+h1, th, td, th, .productbrend{
+  color: #333;
+}
+
+.prices_home1{
+  width: 650px;
+}
+
+.prices_home2{
+  width: 850px;
+}
+
+.accessoriesh2{
+  padding: 20px 0 0 0;
+}
+
+.accessoriesh2, .remont_HouseholdAppliances{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+ .accessories2, .accessories3{
+  width: 410px;
+  padding: 10px;
+  background: #d0b8a8;
+ }
+
+ .remont_comp1{
+  width: 630px;
+ }
+
+ .remont_comp1, .remont_zasobizviazku, .remont_zasobizviazku2{
+  height: 400px;
+ }
+
+ .remont_zasobizviazku, .housestechniques{
+  width: 830px;
+ }
+
+ .remont_zasobizviazku2{
+  width: 430px;
+ }
+
+ .remont_HouseholdAppliances{
+  padding: 40px;
+ }
+
+ .housestechniques{
+  height: 300px;
+ }
+
+ .housestechniques_div{
+  padding: 20px;
+ }
+
+ .label1, .label2, .submit{
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px;
+  width: 400px;
+ }
+
+.submit{
+  background-color: #dfd3c3;
+  color:  #7d6e83; 
+  border: 1px solid #7d6e83;
+  border-radius: 20px;
+  margin: 15px;
+}
